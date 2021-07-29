@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Raj Kumar Ranabhat
+- 👀 I’m interested in Medical Imaging and Instrumentation with AI and Machine Learning.
+- 🌱 I’m currently working in SunnyBrook Health Sciences Center, Toronto on Various Projects.
+- 💞️ I’m looking to collaborate on Biomedical Engineering and Artifical intelligent.
+- 📫 Please feel free to write at rajkumar.ranabhat@sunnybrook.ca or rajkumar_ranabhat@hotmail.com.
